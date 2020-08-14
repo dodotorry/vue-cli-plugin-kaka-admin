@@ -1,0 +1,23 @@
+{
+  "name": "vue-cli-plugin-kaka-admin",
+  "version": "1.0.0",
+  "description": "vue-cli plugin to add kaka_backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:dodotorry/vue-cli-plugin-kaka-admin.git",
+    "homepage": "https://github.com/dodotorry/vue-cli-plugin-kaka-admin/blob/master/README.md"
+  },
+  "keywords": [
+    "vue",
+    "vue-cli",
+    "kaka",
+    "admin",
+    "kaka-admin"
+  ],
+  "author": "kaka_studio",
+  "license": "ISC"
+}
